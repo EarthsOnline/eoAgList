@@ -7,13 +7,14 @@ eoAgList (EarthsOnline's Adguard List) 旨在过滤掉一些常见的中文网�
 因此，未来可能会创建没温和版本的过滤规则。  
 欢迎您根据自己的需要进行选择或提交 Issue！  
 
-#### 现有的过滤列表
+#### 现有的过滤规则
 * Combine List
   * Bilibili_filters
   * Baidu_filters
 
 #### 过滤列表的使用方法
-
+请您阅读这些 [图片](Guides/step_1.png) 获取更多的信息。
+其中，请在 URL 里填写纯文本格式 —— 以 raw 开头的地址。
 
 ### 哪些内容可能会被过滤
 * 悬浮式的界面
