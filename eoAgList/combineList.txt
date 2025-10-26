@@ -1,0 +1,1 @@
+!#include https://github.com/EarthsOnline/eoAgList/blob/main/eoAgList/filters/Bilibili_filters.txt
