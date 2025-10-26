@@ -1,0 +1,32 @@
+! baidu.com
+wenku.baidu.com###app > div.search-header.search-box-wrapper:first-child > div.search-box-inner-wrapper > div.search-user-wrapper:last-child > div.user-vip:nth-child(2)
+wenku.baidu.com##.wk-chat-modal, .open
+wenku.baidu.com###app > div.search-center:nth-child(3) > div.search-center-right:nth-child(2)
+wenku.baidu.com###app > div.sidebar-wrapper:nth-child(5)
+wenku.baidu.com###app > div.search-center:nth-child(3) > div.search-center-left:first-child > div.center-left-wrap > div.search-result-list-2023:last-child > div.search-container > div.list-wrap > div.undoc-card.list-item:first-child
+wenku.baidu.com###app-left
+wenku.baidu.com##.small-app-right, .user-select-auto, .chat-show
+wenku.baidu.com###app > div.content-wrapper:nth-child(2) > div.left-main-wrapper:first-child > div.header-wrapper.no-full-screen.new-header.is-top:first-child > div.search-box-wrapper > div.search-box-inner-wrapper
+wenku.baidu.com###app > div.content-wrapper:nth-child(2) > div.left-main-wrapper:first-child > div.header-wrapper.no-full-screen.new-header.is-top:first-child > div.search-box-wrapper
+wenku.baidu.com###nav-menu-wrap > div.menu-foot:nth-child(4)
+wenku.baidu.com###app > div.content-wrapper:nth-child(2) > div.left-main-wrapper:first-child > div.rec-editor-wrapper:last-child > div.center-wrapper.zoom-scale.classic.no-editor-menu.small-side-center-wrapper:nth-child(2) > div.top-bar-right:first-child
+wenku.baidu.com##.tool-bar-wrap
+wenku.baidu.com##.supernatant-tools, .supernatant-exp2
+wenku.baidu.com##.nav-menu, .isCollapse, .normal-screen-mode, .optimization-experiment
+wenku.baidu.com###TANGRAM__PSP_5__
+wenku.baidu.com###passport-login-pop
+baike.baidu.com###side
+easylearn.baidu.com##.doc-cont-v2
+easylearn.baidu.com##.shijuan-source
+easylearn.baidu.com##.vip-card-warp
+easylearn.baidu.com##.vip-banner-cont
+easylearn.baidu.com###questionVideo
+easylearn.baidu.com##.business-el-line
+easylearn.baidu.com###c-header-main > div.container > div.header-right:last-child
+easylearn.baidu.com###app > div.page > div:first-child > div.container:last-child > div.left-wrap:last-child > div.left:last-child > div.question-cont:first-child > div.timu-wrap.common-block:first-child > div.action-btn:first-child
+image.baidu.com###app > div.page-wrapper_3SCbw.page-wrapper_32E9A > div.scroll-container_3GMO1.cos-flex.cos-flex-1.scroll-wrapper_BN2t5:first-child > div.scroll-wrapper_2EWyF.verical_1nfhJ.cos-flex-1 > div.cos-flex.cos-flex-col.index-wrapper_B1TLY:last-child
+jingyan.baidu.com###aside
+jingyan.baidu.com###breadcrumb
+jingyan.baidu.com##.nav
+jingyan.baidu.com###wgt-exp-share
+jingyan.baidu.com###main-content > div.main-content-bottom:last-child
