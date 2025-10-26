@@ -13,7 +13,7 @@ eoAgList (EarthsOnline's Adguard List) 旨在过滤掉一些常见的中文网�
   * Baidu_filters
 
 #### 过滤列表的使用方法
-请您阅读这些 [图片](Guides/step_1.png) 获取更多的信息。
+请您阅读这些 [图片](Guides/step_1.png) 获取更多的信息。  
 其中，请在 URL 里填写纯文本格式 —— 以 raw 开头的地址。
 
 ### 哪些内容可能会被过滤
@@ -36,7 +36,7 @@ eoAgList (EarthsOnline's Adguard List) 旨在过滤掉一些常见的中文网�
 * eoAgList 欢迎进行友好的讨论。
 
 ### 提交策略
-eoAgList 会尽量仿照 [EasyList](https://github.com/easylist/easylist/?tab=readme-ov-file#commit-policy) 的方式标记提交的修改：
+eoAgList 会尽量仿照 [EasyList](https://github.com/easylist/easylist/?tab=readme-ov-file#commit-policy) 的方式标记提交的修改：  
 * A：增加了一个新的选择器
 * M：去除过时/失效的选择器
 * P：修改/删除了一个选择器来解决一个 Issue
