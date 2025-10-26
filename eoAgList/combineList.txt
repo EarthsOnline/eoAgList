@@ -1,1 +1,2 @@
+!#include https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/filters/Baidu_filters.txt
 !#include https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/filters/Bilibili_filters.txt
