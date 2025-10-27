@@ -17,8 +17,13 @@ eoAgList (EarthsOnline's Adguard List) 旨在过滤掉一些常见的中文网�
     * doc88_filters
     * Souhu_filters
 
+  
+|List|Raw|
+|:-|:-|
+|eoAgList_strict|https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/eoAgList_strict.txt|
+
 #### 过滤列表的使用方法
-在 “添加自定义过滤器” 页面输入以 **raw** 开头的纯文本格式的规则列表。
+在 “添加自定义过滤器” 页面输入以 **raw** 开头的纯文本格式的规则列表。  
 
 #### 哪些内容可能会被过滤
 * 悬浮式的界面
@@ -55,5 +60,5 @@ eoAgList 会尽量仿照 [EasyList](https://github.com/easylist/easylist/?tab=re
 根据域名而非首个字符排序，能够识别并忽略 Adguard 规则中开头的特殊字符。
 
 ### 运行环境
-程序依赖 pySide6 运行。
+程序依赖 pySide6 运行。  
 请通过 ``` pip install pySide6 ``` 安装依赖库。
