@@ -1,2 +1,4 @@
+!raw: https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/eoAgList_strict.txt
+
 !#include https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/filters/illegal_filters.txt
 !#include https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/filters/dns_hijack_filters.txt
