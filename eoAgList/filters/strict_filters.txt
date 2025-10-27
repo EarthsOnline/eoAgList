@@ -92,3 +92,26 @@ space.bilibili.com###page-index > div.col-2:last-child
 space.bilibili.com###page-index > div.col-2:last-child > div.section.elec:nth-child(4)
 space.bilibili.com###page-index > div.col-2:last-child > div.section.i-ann:nth-child(6)
 space.bilibili.com###page-index > div.col-2:last-child > div.section.user-info:nth-child(8)
+
+! csdn.net
+csdn.net##div.csdn-cert-container:nth-child(57)
+csdn.net##div.csdn-cert-container:nth-child(9)
+
+! doc88.com
+doc88.com##.comment
+doc88.com##.commonbox1
+doc88.com##.left-menu
+doc88.com##.surplus
+doc88.com##.toplayer-shop
+doc88.com###boxright
+doc88.com###header
+
+! sohu.com
+*sohu.com###articleAllsee
+*sohu.com###article-container > div.column.left:first-child
+*sohu.com###groomRead
+*sohu.com###meComment
+*sohu.com###meComment > div
+*sohu.com###right-side-bar
+*sohu.com###shareInteraction > div.share-interaction-c.fixed
+*sohu.com##.news-box, .clear
