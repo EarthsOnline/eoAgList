@@ -1,0 +1,8 @@
+! doc88.com
+doc88.com##.comment
+doc88.com##.commonbox1
+doc88.com##.left-menu
+doc88.com##.surplus
+doc88.com##.toplayer-shop
+doc88.com###boxright
+doc88.com###header
