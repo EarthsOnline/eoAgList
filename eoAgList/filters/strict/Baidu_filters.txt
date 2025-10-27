@@ -1,3 +1,5 @@
+! raw: https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/filters/strict/Baidu_filters.txt
+
 ! baidu.com
 baike.baidu.com###side
 easylearn.baidu.com##.business-el-line
