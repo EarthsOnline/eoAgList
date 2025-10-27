@@ -1,3 +1,5 @@
+! raw: https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/filters/strict/doc88_filters.txt
+
 ! doc88.com
 doc88.com##.comment
 doc88.com##.commonbox1
