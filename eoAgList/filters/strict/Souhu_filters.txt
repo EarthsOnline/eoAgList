@@ -1,3 +1,5 @@
+! raw: https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/filters/strict/Souhu_filters.txt
+
 ! sohu.com
 *sohu.com###articleAllsee
 *sohu.com###article-container > div.column.left:first-child
