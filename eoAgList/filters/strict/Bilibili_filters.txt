@@ -1,0 +1,59 @@
+! bilibili.com
+bilibili.com##.bili-live-card__wrap
+bilibili.com##.bili-video-card__image, .__scale-player-wrap, .bili-video-card__image--hover
+bilibili.com##.bpx-player-ending-content
+bilibili.com##.feed-card
+bilibili.com##.floor-card, .single-card
+bilibili.com##.palette-button-adcard, .is-bottom
+bilibili.com##.trending-item
+bilibili.com##.vip-login-tip
+bilibili.com##div.bili-mini-mask:last-child
+bilibili.com##div.bili-mini-mask:last-child > div.bili-mini-content-wp
+bilibili.com##div.lt-row:last-child > div.lt-col > div.login-tip
+bilibili.com##div.lt-row:last-child > div.lt-col > div.vip-login-tip
+bilibili.com###activity_vote > div.inside-wrp
+bilibili.com###activity_vote > div.inside-wrp > div.left:first-child
+bilibili.com###arc_toolbar_report
+bilibili.com###biliMainHeader > div.bili-header.fixed-header > div.bili-header__bar.mini-header > ul.left-entry:first-child
+bilibili.com###bilibili-player > div.bpx-docker.bpx-docker-major > div.bpx-player-container > div.bpx-player-primary-area:first-child > div.bpx-player-video-area:first-child > div.bpx-player-control-wrap:nth-child(12) > div.bpx-player-control-entity:last-child > div.bpx-player-pbp.show:last-child > svg:first-child
+bilibili.com###bilibili-player > div.bpx-docker.bpx-docker-major > div.bpx-player-container.bpx-state-paused > div.bpx-player-primary-area:first-child > div.bpx-player-video-area:first-child > div.bpx-player-toast-wrap:nth-child(11) > div.bpx-player-toast-auto:first-child > div.bpx-player-toast-row.bpx-player-toast-unfold > div.bpx-player-toast-item
+bilibili.com###comment > div.comment > div.bili-comment.browser-pc > div.comment-container
+bilibili.com###danmukuBox > div.danmaku-wrap
+bilibili.com###danmukuBox > div.danmaku-wrap > div.bpx-docker.bpx-docker-minor > div.bpx-player-auxiliary.bpx-player-unlogin > div.bpx-player-collapse.bui.bui-collapse > div.bui-area > div.bui-collapse-wrap.bui-collapse-wrap-folded > div.bui-collapse-header:first-child
+bilibili.com###i_cecream > div.adblock-tips:nth-child(2)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__bar:first-child > ul.left-entry:first-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.bili-header.large-header:first-child > div.bili-header__channel:last-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.header-channel:nth-child(2)
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.header-channel:nth-child(2) > div.header-channel-fixed.header-channel-fixed-down
+bilibili.com###i_cecream > div.bili-feed4:last-child > div.palette-button-outer.palette-feed4:last-child > div.palette-button-inner > div.palette-button-wrap
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.recommended-container_floor-aside > div.container.is-version8:first-child > div.bili-live-card.is-rcmd.enable-no-interest:nth-child(13)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.recommended-container_floor-aside > div.container.is-version8:first-child > div.bili-live-card.is-rcmd.enable-no-interest:nth-child(25)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.recommended-container_floor-aside > div.container.is-version8:first-child > div.bili-live-card.is-rcmd.enable-no-interest:nth-child(30)
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.recommended-container_floor-aside > div.container.is-version8:first-child > div.bili-live-card.is-rcmd.enable-no-interest:nth-child(35) > div.bili-live-card__wrap.__scale-wrap:last-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.recommended-container_floor-aside > div.container.is-version8:first-child > div.bili-live-card.is-rcmd.enable-no-interest:nth-child(61) > div.bili-live-card__wrap.__scale-wrap:last-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.recommended-container_floor-aside > div.container.is-version8:first-child > div.recommended-swipe.grid-anchor:first-child
+bilibili.com###i_cecream > div.bili-feed4:last-child > main.bili-feed4-layout:nth-child(3) > div.feed2:last-child > div.recommended-container_floor-aside > div.feed-roll-btn:last-child > button.primary-btn.roll-btn
+bilibili.com###mirror-vdcon > div.float-nav-exp:last-child > div.nav-menu
+bilibili.com###mirror-vdcon > div.fixed-sidenav-storage:last-child
+bilibili.com###mirror-vdcon > div.playlist-container--left:first-child > div.playlist-comment:last-child > div.comment > div.bili-comment.browser-pc > div.comment-container > div.reply-header:first-child
+bilibili.com###mirror-vdcon > div.playlist-container--left:first-child > div.playlist-comment:last-child > div.comment > div.bili-comment.browser-pc > div.comment-container > div.reply-warp:last-child
+bilibili.com###mirror-vdcon > div.playlist-container--right:nth-child(2)
+bilibili.com###mirror-vdcon > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div.rcmd-tab-switcher:nth-child(8)
+bilibili.com###mirror-vdcon > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div.up-panel-container:first-child > div.up-info-container:first-child > div.up-info--right:last-child > div.up-info__btn-panel:last-child > div.upinfo-btn-panel
+bilibili.com###mirror-vdcon > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div.up-panel-container:first-child > div.up-info-container:first-child > div.up-info--right:last-child > div.up-info__detail:first-child > div.up-detail > div.up-detail-top:first-child > a.send-msg:last-child
+bilibili.com###mirror-vdcon > div.right-container.is-in-large-ab:nth-child(2) > div.right-container-inner.scroll-sticky > div:last-child
+bilibili.com###playlistToolbar
+bilibili.com###reco_list > div.rec-list:nth-child(2)
+search.bilibili.com##.login-panel-popover
+search.bilibili.com##.panel-v2
+search.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child
+search.bilibili.com###bili-header-container > div.bili-header > div.bili-header__bar.mini-header > ul.right-entry:last-child > li.right-entry-item:first-child > li.v-popover-wrap > div.v-popover.is-bottom:last-child > div.v-popover-content > div.login-panel-popover
+search.bilibili.com###i_cecream > div.search-layout.clearfix > div.search-egg-container:nth-child(2)
+search.bilibili.com###i_cecream > div.search-layout.clearfix > div.side-buttons-container.p_fixed:last-child > div.side-buttons-wrapper.i_wrapper > div.p_relative > div > div.side-buttons.flex_col_end.p_absolute
+search.bilibili.com###i_cecream > div.search-layout.clearfix > div:nth-child(2) > div.search-content--gray.search-content:last-child > div.search-page-wrapper > div.search-page.search-page-all > div > div.activity-game-list.i_wrapper.search-all-list:nth-child(2) > div.activity-game-list-wrap > div.row
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > div.center-search-container.offset-center-search:nth-child(2) > div.center-search__bar.is-focus > div.search-panel:last-child > div.history:first-child
+space.bilibili.com###biliMainHeader > div.bili-header > div.bili-header__bar.mini-header > ul.left-entry:first-child
+space.bilibili.com###page-index > div.col-2:last-child
+space.bilibili.com###page-index > div.col-2:last-child > div.section.elec:nth-child(4)
+space.bilibili.com###page-index > div.col-2:last-child > div.section.i-ann:nth-child(6)
+space.bilibili.com###page-index > div.col-2:last-child > div.section.user-info:nth-child(8)
