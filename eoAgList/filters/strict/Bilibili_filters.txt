@@ -1,3 +1,5 @@
+! raw: https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/filters/strict/Bilibili_filters.txt
+
 ! bilibili.com
 bilibili.com##.bili-live-card__wrap
 bilibili.com##.bili-video-card__image, .__scale-player-wrap, .bili-video-card__image--hover
