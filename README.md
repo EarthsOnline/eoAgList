@@ -42,3 +42,13 @@ eoAgList 会尽量仿照 [EasyList](https://github.com/easylist/easylist/?tab=re
 * A：增加了一个新的选择器
 * M：去除过时/失效的选择器
 * P：修改/删除了一个选择器来解决一个 Issue
+
+# AdguardRuleSorter
+这是 eoAgList 的副产物。
+
+### 它的功能
+根据域名而非首个字符排序，能够识别并忽略 Adguard 规则中开头的特殊字符。
+
+### 运行环境
+程序依赖 pySide6 运行。
+请通过 ``` pip install pySide6 ``` 安装依赖库。
