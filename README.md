@@ -28,7 +28,7 @@ eoAgList (EarthsOnline's Adguard List) 旨在过滤掉一些常见的中文网�
 
 * 完全不符合正常人价值观的网站
 * DNS 劫持
-* DNS 劫持的载体
+* 经常被用于进行 DNS 劫持的域名停靠网站
 
   * 比如 Dragon Parking
 
