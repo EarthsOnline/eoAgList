@@ -1,0 +1,9 @@
+! sohu.com
+*sohu.com###articleAllsee
+*sohu.com###article-container > div.column.left:first-child
+*sohu.com###groomRead
+*sohu.com###meComment
+*sohu.com###meComment > div
+*sohu.com###right-side-bar
+*sohu.com###shareInteraction > div.share-interaction-c.fixed
+*sohu.com##.news-box, .clear
