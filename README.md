@@ -8,8 +8,14 @@ eoAgList (EarthsOnline's Adguard List) 旨在过滤掉一些常见的中文网�
 欢迎您根据自己的需要进行选择或提交 Issue！  
 
 #### 现有的过滤规则
-* strict_filters.txt
-* dns_hijack_filters.txt
+* eoAgList_strict
+  * dns_hijack_filters
+  * illegal_filters
+  * strict
+    * Baidu_filters
+    * Bilibili_filters
+    * doc88_filters
+    * Souhu_filters
 
 #### 过滤列表的使用方法
 在 “添加自定义过滤器” 页面输入以 **raw** 开头的纯文本格式的规则列表。
