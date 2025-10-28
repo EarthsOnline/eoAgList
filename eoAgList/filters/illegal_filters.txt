@@ -48,3 +48,11 @@
 ||*uise-official.com^$document
 ||*x91m.com^$all,third-party
 ||*x91m.com^$document
+||*cnhan.com^$all,third-party
+||*cnhan.com^$document
+||*qhradio.com^$all,third-party
+||*qhradio.com^$document
+||*haoaise.tv^$all,third-party
+||*haoaise.tv^$document
+||*my-landing-page*.pages.dev^$all,third-party
+||*my-landing-page*.pages.dev^$document
