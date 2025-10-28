@@ -18,8 +18,12 @@
 ||*finevids.*^$document
 ||*g601.com^$all,third-party
 ||*g601.com^$document
+||*junpin360.com^$all,third-party
+||*junpin360.com^$document
 ||*kafuuchino.*^$all,third-party
 ||*kafuuchino.*^$document
+||*kfarts.com^$all,third-party
+||*kfarts.com^$document
 ||*kurocore.com^$all,third-party
 ||*kurocore.com^$document
 ||*lansedongli.com^$all,third-party
@@ -30,6 +34,8 @@
 ||*n994.com^$document
 ||*nudegirlstube.com^$all,third-party
 ||*nudegirlstube.com^$document
+||*odf7a.com^$all,third-party
+||*odf7a.com^$document
 ||*pbvkj.com^$all,third-party
 ||*pbvkj.com^$document
 ||*pixiv.net^$all,third-party
@@ -42,11 +48,3 @@
 ||*uise-official.com^$document
 ||*x91m.com^$all,third-party
 ||*x91m.com^$document
-||*junpin360.com^$all,third-party
-||*junpin360.com^$document
-||*kfarts.com^$all,third-party
-||*kfarts.com^$document
-||*odf7a.com^$all,third-party
-||*odf7a.com^$document
-||*yishuzuzhi.com^$all,third-party
-||*yishuzuzhi.com^$document
