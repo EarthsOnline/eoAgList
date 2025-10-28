@@ -42,3 +42,11 @@
 ||*uise-official.com^$document
 ||*x91m.com^$all,third-party
 ||*x91m.com^$document
+||*junpin360.com^$all,third-party
+||*junpin360.com^$document
+||*kfarts.com^$all,third-party
+||*kfarts.com^$document
+||*odf7a.com^$all,third-party
+||*odf7a.com^$document
+||*yishuzuzhi.com^$all,third-party
+||*yishuzuzhi.com^$document
