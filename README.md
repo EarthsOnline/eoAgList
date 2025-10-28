@@ -2,7 +2,7 @@
 这些规则目前可能正在被维护。
 
 ### eoAgList
-eoAgList (EarthsOnline's Adguard List) 旨在过滤掉一些常见的中文网站上令人恼火的元素。  
+eoAgList 旨在过滤掉一些令人不适的内容。  
 值得注意的是 eoAgList 具有很强的主观性， 且会对部分网站造成严重的破坏。  
 因此，未来可能会创建更温和的过滤规则。  
 欢迎您根据自己的需要进行选择或提交 Issue！  
