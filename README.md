@@ -2,12 +2,10 @@
 这些规则目前可能正在被维护。
 
 ### eoAgList
-eoAgList 旨在过滤掉一些令人不适的内容。  
-值得注意的是 eoAgList 具有很强的主观性， 且会对部分网站造成严重的破坏。  
-因此，未来可能会创建更温和的过滤规则。  
-欢迎您根据自己的需要进行选择或提交 Issue！  
+eoAgList 旨在过滤掉一些令人不适的内容，会对部分网站造成严重的破坏。  
+欢迎您根据自己的需要进行选择或提交 Issue。  
 
-#### 现有的过滤规则
+### 现有的过滤规则
 * eoAgList_strict
   * dns_hijack_filters
   * illegal_filters
@@ -36,7 +34,7 @@ eoAgList 旨在过滤掉一些令人不适的内容。
 #### 哪些内容一定会被过滤
 此类内容 **不支持** 通过提交 Issue 来取消过滤。
 
-* 完全不符合正常人价值观的网站
+* 完全不符合 **正常人** 价值观的网站
 * DNS 劫持
 * 经常被用于进行 DNS 劫持的域名停靠网站
 
@@ -52,13 +50,3 @@ eoAgList 会尽量仿照 [EasyList](https://github.com/easylist/easylist/?tab=re
 * A：增加了一个新的选择器
 * M：去除过时/失效的选择器
 * P：修改/删除了一个选择器来解决一个 Issue
-
-# AdguardRuleSorter
-这是 eoAgList 的副产物。
-
-### 它的功能
-根据域名而非首个字符排序，能够识别并忽略 Adguard 规则中开头的特殊字符。
-
-### 运行环境
-程序依赖 pySide6 运行。  
-请通过 ``` pip install pySide6 ``` 安装依赖库。
