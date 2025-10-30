@@ -74,3 +74,13 @@
 ||*x91m.com^$document
 ||*yandex.com^$all,third-party
 ||*yandex.com^$document
+||*fantia*^$document
+||*fantia*^$all,third-party
+||*fanbox*^$all,third-party
+||*fanbox*^$document
+||*remana.gumroad.com^$document
+||*remana.gumroad.com^$all,third-party
+||*patreon.com^$all,third-party
+||*patreon.com^$document
+||*subscribestar*^$document
+||*subscribestar*^$all,third-party
