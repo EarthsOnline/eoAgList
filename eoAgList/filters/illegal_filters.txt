@@ -10,6 +10,10 @@
 ||*cnhan.com^$document
 ||*coverstation.xyz^$all,thirdparty
 ||*coverstation.xyz^$document
+||*cumflation.com^$all,third-party
+||*cumflation.com^$document
+||*defeatedsexfight.com^$all,third-party
+||*defeatedsexfight.com^$document
 ||*diandongzhi.com^$all,third-party
 ||*diandongzhi.com^$document
 ||*dragonparking.com^$all,third-party
@@ -32,12 +36,18 @@
 ||*fantia*^$document
 ||*finevids*^$all,third-party
 ||*finevids*^$document
+||*freeze*^$all,third-party
+||*freeze*^$document
+||*futanari*^$all,third-party
+||*futanari*^$document
 ||*g601.com^$all,third-party
 ||*g601.com^$document
 ||*godaddy.com^$all,third-party
 ||*godaddy.com^$document
 ||*haoaise.tv^$all,third-party
 ||*haoaise.tv^$document
+||*hentaied.com^$all,third-party
+||*hentaied.com^$document
 ||*imdb.com^$all,third-party
 ||*imdb.com^$document
 ||*junpin360.com^$all,third-party
@@ -62,6 +72,8 @@
 ||*nudegirlstube.com^$document
 ||*odf7a.com^$all,third-party
 ||*odf7a.com^$document
+||*parasited.com^$all,third-party
+||*parasited.com^$document
 ||*patreon.com^$all,third-party
 ||*patreon.com^$document
 ||*pbvkj.com^$all,third-party
@@ -90,6 +102,8 @@
 ||*uise-official.com^$document
 ||*vampired.com^$all,third-party
 ||*vampired.com^$document
+||*vored.com^$all,third-party
+||*vored.com^$document
 ||*x91m.com^$all,third-party
 ||*x91m.com^$document
 ||*yandex.com^$all,third-party
