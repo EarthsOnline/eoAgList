@@ -7,7 +7,6 @@ eoAgList 旨在过滤掉一些令人不适的内容，会对部分网站造成�
 
 ### 现有的过滤规则
 * eoAgList_strict
-  * dns_hijack_filters
   * illegal_filters
   * strict
     * Baidu_filters
