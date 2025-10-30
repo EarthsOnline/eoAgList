@@ -10,6 +10,12 @@
 ||*cnhan.com^$document
 ||*coverstation.xyz^$all,thirdparty
 ||*coverstation.xyz^$document
+||*diandongzhi.com^$all,third-party
+||*diandongzhi.com^$document
+||*dragonparking.com^$all,third-party
+||*dragonparking.com^$document
+||*dragonstatic.com^$all,third-party
+||*dragonstatic.com^$document
 ||*e-hentai*^$all,third-party
 ||*e-hentai*^$document
 ||*e621.net^$all,third-party
@@ -28,6 +34,8 @@
 ||*finevids*^$document
 ||*g601.com^$all,third-party
 ||*g601.com^$document
+||*godaddy.com^$all,third-party
+||*godaddy.com^$document
 ||*haoaise.tv^$all,third-party
 ||*haoaise.tv^$document
 ||*imdb.com^$all,third-party
@@ -58,6 +66,8 @@
 ||*patreon.com^$document
 ||*pbvkj.com^$all,third-party
 ||*pbvkj.com^$document
+||*perfectdomain.com^$all,third-party
+||*perfectdomain.com^$document
 ||*pixiv.net^$all,third-party
 ||*pixiv.net^$document
 ||*pornhub.com^$all,third-party
