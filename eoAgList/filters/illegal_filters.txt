@@ -108,3 +108,11 @@
 ||*x91m.com^$document
 ||*yandex.com^$all,third-party
 ||*yandex.com^$document
+||*findresultsonline.com^$all,third-party
+||*findresultsonline.com^$document
+||*nfsplw.com^$document
+||*nfsplw.com^$all,third-party
+||*steambig.com^$document
+||*steambig.com^$all,third-party
+||*reasonlabs.com^$document
+||*reasonlabs.com^$all,third-party
