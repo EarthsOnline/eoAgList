@@ -130,3 +130,5 @@
 ||*xiake*^$document
 ||*yandex.com^$all,third-party
 ||*yandex.com^$document
+||*x.com/remana22^$document
+||*x.com/remana22^$all,third-party
