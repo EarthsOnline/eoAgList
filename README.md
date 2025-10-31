@@ -7,12 +7,15 @@ eoAgList 旨在过滤掉一些令人不适的内容。
 
 ### 现有的过滤规则
 * eoAgList_strict
-  * illegal_filters
-  * strict
-    * Baidu_filters
-    * Bilibili_filters
-    * doc88_filters
-    * Souhu_filters
+  * filters /
+    * illegal_filters
+    * patreon_ban_filters
+    * x_ban_filters
+    * strict /
+      * Baidu_filters
+      * Bilibili_filters
+      * doc88_filters
+      * Souhu_filters
 
   
 |List|Raw|
