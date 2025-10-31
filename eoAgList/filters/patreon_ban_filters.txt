@@ -1,0 +1,6 @@
+! raw: https://raw.githubusercontent.com/EarthsOnline/eoAgList/refs/heads/main/eoAgList/filters/patreon_ban_filters.txt
+! patreon_ban_filters 处理那些已知在 patreon.com 上传播令人不适内容的账号。
+
+! patreon_ban_filters
+||*patreon.com/cw/MANA^$all,third-party
+||*patreon.com/cw/MANA^$document
