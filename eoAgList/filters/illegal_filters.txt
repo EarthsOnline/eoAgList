@@ -82,8 +82,6 @@
 ||*odf7a.com^$document
 ||*parasited.com^$all,third-party
 ||*parasited.com^$document
-||*patreon.com^$all,third-party
-||*patreon.com^$document
 ||*pbvkj.com^$all,third-party
 ||*pbvkj.com^$document
 ||*perfectdomain.com^$all,third-party
@@ -130,5 +128,3 @@
 ||*xiake*^$document
 ||*yandex.com^$all,third-party
 ||*yandex.com^$document
-||*x.com/remana22^$document
-||*x.com/remana22^$all,third-party
