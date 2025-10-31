@@ -2,5 +2,5 @@
 ! x_ban_filters 处理那些已知在 x.com 上传播令人不适内容的账号。
 
 ! x_ban_filters
-||*x.com/remana22^$document
 ||*x.com/remana22^$all,third-party
+||*x.com/remana22^$document
