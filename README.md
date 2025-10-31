@@ -32,7 +32,7 @@ eoAgList 旨在过滤掉一些令人不适的内容。
 * 毫无价值的推送
 
 #### 哪些内容一定会被过滤
-此类内容 **不支持** 通过提交 Issue 来取消过滤。
+此类内容 **不支持** 通过提交 Issue 来取消过滤。  
 
 * 完全不符合 **正常人** 价值观的网站
 * DNS 劫持
@@ -50,7 +50,9 @@ eoAgList 旨在过滤掉一些令人不适的内容。
 * eoAgList 欢迎进行友好的讨论。
 
 #### 提交策略
-eoAgList 会尽量仿照 [EasyList](https://github.com/easylist/easylist/?tab=readme-ov-file#commit-policy) 的方式标记提交的修改：  
+eoAgList 的提交策略模仿了 [EasyList](https://github.com/easylist/easylist/?tab=readme-ov-file#commit-policy)。  
+诚挚地感谢 EasyList 对互联网环境做出的努力！  
+
 * A：增加了一个新的选择器
 * M：去除过时/失效的选择器
 * P：修改/删除了一个选择器来解决一个 Issue
