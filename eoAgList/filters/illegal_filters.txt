@@ -1,3 +1,5 @@
+||*154.219.112.7^$all,third-party
+||*154.219.112.7^$document
 ||*3e6n.com^$all,third-party
 ||*3e6n.com^$document
 ||*3y2k.com^$all,third-party
@@ -8,6 +10,12 @@
 ||*513x.com^$document
 ||*ai-kit.cn^$all,third-party
 ||*ai-kit.cn^$document
+||*akina*^$all,third-party
+||*akina*^$document
+||*atri*^$all,third-party
+||*atri*^$document
+||*bakamarisa*^$all,third-party
+||*bakamarisa*^$document
 ||*cnhan.com^$all,third-party
 ||*cnhan.com^$document
 ||*coverstation.xyz^$all,thirdparty
@@ -52,6 +60,8 @@
 ||*haoaise.tv^$document
 ||*hentaied.com^$all,third-party
 ||*hentaied.com^$document
+||*highiqshop*^$all,third-party
+||*highiqshop*^$document
 ||*imdb.com^$all,third-party
 ||*imdb.com^$document
 ||*jenny-mod.com^$all,third-party
@@ -74,6 +84,12 @@
 ||*my-landing-page*^$document
 ||*n994.com^$all,third-party
 ||*n994.com^$document
+||*nanyin*^$all,third-party
+||*nanyin*^$document
+||*naven*^$all,third-party
+||*naven*^$document
+||*naven-xd*^$all,third-party
+||*naven-xd*^$document
 ||*nfsplw.com^$all,third-party
 ||*nfsplw.com^$document
 ||*nudegirlstube.com^$all,third-party
